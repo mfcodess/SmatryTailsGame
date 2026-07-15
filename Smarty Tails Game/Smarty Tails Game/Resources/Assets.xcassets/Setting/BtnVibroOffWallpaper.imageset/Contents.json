@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "btn_vibro_off.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
