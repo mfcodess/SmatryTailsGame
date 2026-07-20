@@ -95,6 +95,9 @@ struct Subject: View {
                                         .foregroundStyle(.white)
                                 }
                                 Button {
+                                    withAnimation(.easeInOut(duration: 0.4)) {
+                                        currentScreen = .geography
+                                    }
                                     
                                 } label: {
                                     Image("BtnGeographyWallpaper")

@@ -32,6 +32,9 @@ struct Root: View {
             
         case .subject:
             Subject(currentScreen: $currentScreen)
+            
+        case .geography:
+            Geography(currentScreen: $currentScreen)
         }
     }
 }

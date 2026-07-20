@@ -14,4 +14,5 @@ enum Screens {
     case menu
     case achievement
     case subject
+    case geography
 }
